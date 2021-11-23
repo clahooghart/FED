@@ -33,17 +33,17 @@ Mijn focus ligt op de surface plane.
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-link naar de website die je gaat namaken: https://www.bershka.com/nl/dames-c1010193132.html 
+link naar de website die je gaat namaken: https://fentybeauty.com/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 
-homepage
-<img src="images/home.png" width="375px" alt="De begin pagina van de website">
+Homepagina van Fenty Beauty
+<img src="images/FentyHome(small screen).png" alt="Homepagina van Fenty Beauty">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 
-sweatshirts en hoodies  
-<img src="images/categorie.png" width="375px" alt="De pagina van sweatshirts en hoodies">
+Account aanmaken pagina
+<img src="images/FentyAccount(small screen).png" alt="Account aanmaken bij Fenty Beauty">
  
 </details>
 
@@ -55,13 +55,12 @@ sweatshirts en hoodies
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina: 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+<img src="images/Breakdownschets1.jpg" alt="Homepagina breakdown schets">
+<img src="images/Breakdownschets2.jpg" alt="Account pagina breakdown schets">
 
 ### dynamisch deel (bijv menu): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+<img src="images/Breakdownschets3.jpg" alt="Menu breakdown schets">
 
-### wellicht nog een dynamisch deel (bijv filter): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 

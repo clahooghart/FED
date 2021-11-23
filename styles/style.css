@@ -3,21 +3,4 @@
   box-sizing:border-box;  
 }
 
-body {
-  background-color: grey;
-  background-image: url(./images/model.png);
-}
 
-header button {
-  background: none;
-  border: none;
-  cursor: pointer;
-  display: flex;
-  width: 2.5rem;
-  position: relative;
-}
-
-nav ul li a { 
-  color: white;
-  list-style-type: none
-}
