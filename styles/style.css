@@ -3,4 +3,43 @@
   box-sizing:border-box;  
 }
 
+@font-face {
+  font-family: 'Questrial';
+  src: url('font/questrial-regular-webfont.woff') format('woff');
+  font-style:normal;
+}
+
+body {
+   font-family: 'Questrial';
+   text-align: center;
+ }
+
+header nav ul:nth-of-type(1) {
+  display: flex;
+ justify-content: space-around;
+ font-size: x-large;
+ 
+}
+
+header nav ul:nth-of-type(1) li:nth-of-type(1) {
+  background-color: #E0BEB1;
+  padding: 1em;
+  list-style-type: none;
+  text-decoration: underline;  
+}
+
+header nav ul:nth-of-type(1) li:nth-of-type(2) {
+  background-color: #E1DCE4;
+  padding: 1em;
+  list-style-type: none; 
+}
+
+
+ header nav ul:nth-of-type(2) {
+   background-color:black;
+   color: white;
+   display: flex;
+  justify-content: space-around;
+
+ }
 
